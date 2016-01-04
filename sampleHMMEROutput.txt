@@ -393,3 +393,18 @@
                 P  e+ +++++aka+++ld+    Ga  g+lf e +saly++ +r+++++y++GlGGrd ++++i+ v e  kk+++ gkvek+   l+l+
   643385397 302 PFKEIADALQSAKAIAILDRVSPAGAqGGPLFSEIRSALYDTPTRAPIINYTYGLGGRDTQPKHINSVYETLKKIVETGKVEKQFDCLNLR 392
                 *************************96789*****************************************************99999998 PP
+                
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (399 nodes)
+Target sequences:                        24953  (15038252 residues searched)
+Passed MSV filter:                     12293  (0.492646); expected 499.1 (0.02)
+Passed bias filter:                    12234  (0.490282); expected 499.1 (0.02)
+Passed Vit filter:                     11959  (0.479261); expected 25.0 (0.001)
+Passed Fwd filter:                     11880  (0.476095); expected 0.2 (1e-05)
+Initial search space (Z):              24953  [actual number of targets]
+Domain search space  (domZ):           11880  [number of targets reported over threshold]
+# CPU time: 91.23u 0.53s 00:01:31.76 Elapsed: 00:00:13.39
+# Mc/sec: 448.12
+//
+[ok]
