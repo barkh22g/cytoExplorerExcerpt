@@ -1,4 +1,4 @@
-#A brief excerpt of a hmmsearch output file. Note that the original file conained 301483 lines.
+#A brief excerpt of a hmmsearch output file. Note that the original file conained 301483 lines. and compared one sequence to 24953 others.
 #A jackhmmer output file contains same information in the same format, but shows 9 iterations of HMM.
 
 # hmmsearch :: search profile(s) against a sequence database
