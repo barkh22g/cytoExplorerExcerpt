@@ -26,7 +26,7 @@ def jackhmmerParse(domain, jackhmmerFile):
         strippedLine = line.strip().split()
 
         if line.startswith(">>"):
-            # hold GI
+            # hold GI (id number)
             currentGI = strippedLine[1]
 
         if line.strip().startswith("=="):
